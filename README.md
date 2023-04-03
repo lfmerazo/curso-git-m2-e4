@@ -26,3 +26,5 @@ Listas
 - [x] Tarea 1
 - [ ] Tarea 2
 - [ ] Tarea 3
+
+Trabajando en GitHub, Cambios mediante Pull Requests
